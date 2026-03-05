@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="100%" height="100%" fill="#f5f5f5"/>
+  
+  <!-- 办公室背景 -->
+  <rect x="50" y="50" width="500" height="300" rx="5" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- 窗户 -->
+  <rect x="80" y="80" width="120" height="150" fill="#87CEEB"/>
+  <line x1="140" y1="80" x2="140" y2="230" stroke="#ffffff" stroke-width="2"/>
+  <line x1="80" y1="155" x2="200" y2="155" stroke="#ffffff" stroke-width="2"/>
+  
+  <!-- 办公桌 -->
+  <rect x="250" y="200" width="200" height="80" rx="2" fill="#8B4513"/>
+  <rect x="260" y="210" width="180" height="60" rx="1" fill="#A0522D"/>
+  
+  <!-- 电脑 -->
+  <rect x="300" y="160" width="100" height="60" rx="3" fill="#333333"/>
+  <rect x="310" y="170" width="80" height="40" rx="2" fill="#87CEEB"/>
+  <rect x="340" y="220" width="20" height="10" fill="#333333"/>
+  <rect x="330" y="230" width="40" height="2" fill="#333333"/>
+  
+  <!-- 办公椅 -->
+  <rect x="320" y="280" width="60" height="10" rx="2" fill="#333333"/>
+  <rect x="340" y="240" width="20" height="40" fill="#333333"/>
+  <rect x="330" y="260" width="40" height="20" rx="5" fill="#666666"/>
+  
+  <!-- 植物 -->
+  <rect x="480" y="220" width="30" height="60" fill="#8B4513"/>
+  <circle cx="495" cy="200" r="30" fill="#228B22"/>
+  <circle cx="480" cy="190" r="15" fill="#228B22"/>
+  <circle cx="510" cy="190" r="15" fill="#228B22"/>
+  
+  <!-- 装饰画 -->
+  <rect x="400" y="100" width="80" height="60" fill="#FFD700" stroke="#333333" stroke-width="2"/>
+  <line x1="410" y1="110" x2="470" y2="150" stroke="#333333" stroke-width="1"/>
+  <line x1="410" y1="150" x2="470" y2="110" stroke="#333333" stroke-width="1"/>
+  
+  <text x="300" y="350" font-family="Arial" font-size="18" fill="#333" text-anchor="middle">我们的现代办公环境</text>
+</svg>
